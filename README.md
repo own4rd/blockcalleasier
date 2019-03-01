@@ -1,6 +1,6 @@
 # Block Call Easier (FREE)
 
-This Application was created by an independent developer to block/reject calls. Once this app cannot be accepted in the Google Store, because the app break the Google's Privacy Policy (#link Read here), it must be used only to study, so if you want to use this app, you accept that this app is not to production, so maybe doesn't work well.
+This Application was created by an independent developer to block/reject calls. Once this app cannot be accepted in the Google Store, because the app break the Google's Privacy Policy (<a href="https://play.google.com/about/privacy-security-deception/permissions/">Read More</a>), it must be used only to study, so if you want to use this app, you accept that this app is not to production, so maybe doesn't work well.
 
 Funcionalities:
 - Read/List Contacts to add in blocked numbers
