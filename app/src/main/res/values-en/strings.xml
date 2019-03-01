@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bloqueios_recentes">Recent Blocks</string>
+    <string name="number_blocked">Number blocked successfully.</string>
+    <string name="block_error">Error blocking number. Try Again!.</string>
+    <string name="info_block">Enter a number to block. (The name is not required).</string>
+    <string name="new_block">New Block:</string>
+    <string name="save">Save</string>
+    <string name="next">Continue</string>
+    <string name="cancel">Cancel</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone number</string>
+    <string name="call_rejected">Call Rejected: </string>
+    <string name="number_removed"> - Number removed from blockeds</string>
+    <string name="add_blocked">Added to Block List</string>
+    <string name="already_add">Number already added to the list. Remove on the Blocked Area (FirstTab)</string>
+    <string name="undefined">Undefined</string>
+    <string name="welcome">We know how inconvenient and dangerous it is to give permissions to Apps. But trust us, your data is kept in your phone. We do not put ads and cherish for simplicity.</string>
+    <string name="welcome_permission">We need permissions</string>
+    <string name="nobody_blocked">No number blocked.</string>
+    <string name="app_name">BlockCallEasier</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

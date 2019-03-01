@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">BlockCallEasier</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bloqueios_recentes">Bloqueios Recentes</string>
+    <string name="number_blocked">Número Bloqueado com sucesso.</string>
+    <string name="block_error">Erro ao bloquear número. Tente novamente.</string>
+    <string name="info_block">Digite um número para bloquear. (Nome não é obrigatório)</string>
+    <string name="new_block">Novo bloqueio:</string>
+    <string name="save">Salvar</string>
+    <string name="next">Continuar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="name">Nome</string>
+    <string name="phone">Telefone</string>
+    <string name="call_rejected">Chamada Rejeitada: </string>
+    <string name="number_removed"> - Número removido dos bloqueados</string>
+    <string name="add_blocked">Adicionado a Lista de Bloqueio</string>
+    <string name="already_add">Número já está adicionado na lista. Remova na área de bloqueados.</string>
+    <string name="undefined">Desconhecido</string>
+    <string name="welcome">Sabemos o quanto é complicado e perigoso fornecer permissão à aplicativos. Mas confie em nós, os seus dados são mantidos no seu celular. Não colocamos anuncio e prezamos pela simplicidade.</string>
+    <string name="welcome_permission">Precisamos de permissão</string>
+    <string name="nobody_blocked">Nenhum número bloqueado.</string>
+</resources>

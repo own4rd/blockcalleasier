@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/darker_gray"/>
+
+    <ImageView
+        android:layout_alignParentLeft="true"
+        android:id="@+id/iv_contact"
+        android:layout_centerVertical="true"
+        android:layout_width="45dp"
+        android:layout_height="45dp" />
+
+    <TextView
+        android:id="@+id/tv_nome_contato"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="16dp"
+        android:layout_toRightOf="@+id/iv_contact"
+        android:paddingTop="24dp"
+        android:textSize="24sp"/>
+    <TextView
+        android:id="@+id/tv_number_contato"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_nome_contato"
+        android:layout_toRightOf="@+id/iv_contact"
+        android:paddingLeft="16dp"
+        android:paddingBottom="24dp"
+        android:textSize="14dp"/>
+
+    <ImageButton
+        android:id="@+id/btn_contact_addblock"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/ic_add_black_36dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="10dp"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/darker_gray"/>
+</RelativeLayout>
