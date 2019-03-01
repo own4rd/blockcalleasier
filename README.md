@@ -7,3 +7,6 @@ Funcionalities:
 - Read/List Recent Calls to add in blocked numbers
 - List Blocked Numbers and how many times has been blocked
 
+![](blockcallexample.gif)
+
+Created by: Wagner Palmeira
